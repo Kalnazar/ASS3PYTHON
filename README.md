@@ -22,3 +22,9 @@
 ## Example 
 
 http://127.0.0.1:5000/protected?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImJpYmEiLCJleHAiOjE2MzU1ODAxMDd9.empDxiz7bgDQmY_L13_PoE6LURkmgc1gb-AJG8su708
+
+## Team
+
+* Dias Nurbergenov 
+* Sayat Kalnazar 
+* Beibarys Ussenov
